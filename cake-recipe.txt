@@ -1,5 +1,6 @@
 Ingredients:
  - try rebase
+ - just use git pull origin master no rebase
  - 3/4 cup cocoa
  - 1 1/2 teaspoons baking powder
  - 1 1/2 teaspoons baking soda
